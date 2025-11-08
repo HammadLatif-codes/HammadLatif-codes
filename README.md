@@ -20,7 +20,7 @@ My motivation comes from personal experience with a misdiagnosed skin condition,
 - [**Breast Cancer Classification**](https://github.com/HammadLatif-codes/ML_Projects/blob/main/breast_cancer_classification.ipynb)) – ML models on clinical data for tumor diagnosis  
 - [**Heart Disease Prediction**](https://github.com/HammadLatif-codes/ML_Projects/tree/main/Heart-Disease-Prediction-Project) – Ensemble ML models for cardiovascular risk prediction  
 - [**Credit Card Fraud Detection**](https://github.com/HammadLatif-codes/ML_Projects/tree/main/Credit-Card-Fraud-Transaction-Detection-Project) – Handling imbalanced datasets for anomaly detection  
-- [**Food Vision AI**](https://github.com/HammadLatif-codes/ML_Projects/tree/main/Food-Vision-AI) – Real-time image classification system using EfficientNetB7, deployed with Flask  
+- [**Food Vision AI**](https://github.com/HammadLatif-codes/Food-Vision-AI) – Real-time image classification system using EfficientNetB7, deployed with Flask  
 
 ---
 
